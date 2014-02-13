@@ -1,0 +1,13 @@
+<Feed>
+<Tasks>
+<FileUpdateTask apply="" updateTo="" localPath="">
+<Description>Fixes several bugs with the display</Description>
+<Conditions>
+<FileVersionCondition what="below" version="2.0.0.2"/>
+</Conditions>
+</FileUpdateTask>
+<Pt>
+http://nothing.nothing
+</Pt>
+</Tasks>
+</Feed>
